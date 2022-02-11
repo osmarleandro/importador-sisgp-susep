@@ -1,0 +1,24 @@
+Unidade,Atividade,Faixa de Complexidade,Parâmetro para definição da Faixa de Complexidade,Alocação diária (S/N),Tempo de execução para presencial (h),Tempo de execução para teletrabalho (h),Ganho de produtividade,Entrega esperada
+STI/SEPLAN,Atualização das páginas oficiais de comunicação,Faixa Única,Disponibilidade de 1 hora diária,S,1,1,0%,"Texto, documento publicado no site etc"
+STI/SEPLAN,"Produção ou edição de comunicação interna ou externa (portal, email, notificações)",Faixa Única,A atividade exige conhecimento técnico específico E/OU estudo e novo aprendizado,S,1,1,0%,Comunicação interna ou externa
+STI/SEPLAN,Gestão do PAC,Faixa A,A atividade exige habilidade interpessoal para trabalho em equipe E/OU necessidade de concentração para trabalho individual,N,80,80,0%,Demandas de soluções de tecnologia da informação analisadas e/ou inseridas no PAC
+,,Faixa B,Análise de média complexidade ou tamanho,N,160,160,0%,
+STI/SEPLAN,Execução de procedimentos em sistemas externos específicos,Faixa A,Baixo esforço cognitivo e volume baixo de trabalho,N,4,4,0%,"Operacionalização de atividades em diversos sistemas do Governo Federal, externos à instituição."
+,,Faixa B,Médio esforço cognitivo e volume elevado de trabalho,N,8,8,0%,
+,,Faixa C,Alto esforço cognitivo e volume elevado de trabalho,N,16,16,0%,
+STI/SEPLAN,"Consultas, execução de procedimentos e atualizações em sistemas internos",Faixa A,Baixo esforço cognitivo e volume baixo de trabalho,S,2,2,0%,"Cadastro de dados, atualização de sistemas e encaminhamento de informações."
+,,Faixa B,Médio esforço cognitivo e volume elevado de trabalho,S,4,4,0%,
+,,Faixa C,Grande esforço cognitivo e volume elevado de trabalho,S,8,8,0%,
+,,Faixa D,Alto esforço cognitivo e volume elevado de trabalho,S,12,12,0%,
+,,Faixa E,Complexidade das informações e modelos pré-existentes,N,24,24,0%,
+STI/SEPLAN,Participar de ações de capacitação,Faixa A,Participação de 2 horas,N,2,2,0%,"Certificado, declaração ou diploma, comprovante ou equivalente"
+,,Faixa B,Participação de 8 horas,N,8,8,0%,
+,,Faixa C,Participação de 20 horas,N,20,20,0%,
+,,Faixa D,Participação de 30 horas,S,2,2,0%,
+,,Faixa E,Participação de 40 horas,S,4,4,0%,
+STI/SEPLAN,"Participar em colegiados (internos ou externos), trabalhos grupos (Comissões, Comitês, Grupo de Trabalho formais e informais, projetos formais e informais, internamente na subunidade ou mais de uma subunidade ou/e com órgãos externos)",Faixa A,Participação de 2 horas,N,2,2,0%,
+,,Faixa B,Participação de 4 horas,N,4,4,0%,
+STI/SEPLAN,"Aprimorar, identificar oportunidades de melhoria, desenvolver ou aplicar ferramentas de auxílio nos processos de trabalho e/ou implementá-los",Faixa A,Disponibilidade de 2 horas,N,2,2,0%,Proposta e/ou implementação de aprimoramento dos processos de trabalho
+,,Faixa B,Disponibilidade de 8 horas,N,8,8,0%,
+,,Faixa C,Disponibilidade de 20 horas,N,20,20,0%,
+STI/SEPLAN,Gerir/coordenar equipes,Faixa Única,"Quantidade de informações e projetos a serem geridos, além da quantidade de pessoas a serem alocadas e gerenciadas",S,8,8,0%,"Coordenação e monitoramento de atividades gerenciais, de projetos etc"

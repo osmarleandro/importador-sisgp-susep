@@ -1,0 +1,18 @@
+{
+  "file": "activities.csv",
+  "endpoint": {
+    "hostname": "%HOSTNAME%",
+    "port": "443"
+  },
+  "body": {
+    "username": "%USERNAME%",
+    "password": "%PASS%",
+    "grant_type": "password",
+    "client_secret": "secret",
+    "client_id": "SISGP.Web"
+  },
+  "paths": {
+    "auth_path": "/gateway/connect/token",
+    "item_path": "/gateway/itemcatalogo"
+  }
+}
